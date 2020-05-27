@@ -7,7 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+namespace _16118080
+{
 
 
-public partial class  {
+    public partial class Index
+    {
+    }
 }

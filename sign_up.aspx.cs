@@ -12,6 +12,8 @@ namespace _16118080
 {
     public partial class sign_up : System.Web.UI.Page
     {
+        private object multiViewEmployee;
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
